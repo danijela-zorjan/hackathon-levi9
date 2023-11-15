@@ -11,5 +11,5 @@ pa onda korišćene za samu izradu projeka.
 
 //Nadam se da nije greška što nema komentara. :)
 
-Srdacan Pozdrav,
+Srdačan Pozdrav,
 Danijela Zorjan
